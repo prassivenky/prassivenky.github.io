@@ -24,5 +24,3 @@ I am Prasannavenkatesh Balaji. I was born in Peralam, a Tamil-speaking town in t
 Fundamentally, I have an interest in probability and quantifying uncertainties. Within the AI sphere, I am interested in safety-critical applications of computer vision like autonomous driving. I currently work as a Scientific Officer at the German Centre for Rail Traffic Research, a research centre under Germany's Federal Railway Authority located in Dresden. I primarily focus on trustworthy AI applications in ATO - autonomous train operation. I wish to work extensively and move closer to solving the problem of model calibration, thereby closing the gap between the reported confidence and observed accuracy of an AI model (e.g. neural network).  
 
 Earlier, I worked as a research intern at Volkswagen's headquarters in Wolfsburg, where I also wrote my master thesis on the influence of car windshields on dense perception tasks like semantic segmentation.
-
-
